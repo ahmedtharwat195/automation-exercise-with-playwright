@@ -85,3 +85,7 @@ npx playwright show-report
 ```
 
 ### Generate / Refresh storageState
+The `Login.spec.js` includes a test that logs in and saves the session:
+
+```bash
+npx playwright test tests/Login.spec.js --grep "Save storage state"
