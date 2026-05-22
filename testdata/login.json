@@ -1,0 +1,10 @@
+{
+"validUser":{"email": "ahmedalmeeeslmy@outlook.com",
+    "password": "123456789"},
+  "invalidUser":{
+"email": "ahmedalhjheslmy@outlook.com",
+    "password": "12345hjh6789",
+    "message":"Your email or password is incorrect!"
+  }  
+
+}

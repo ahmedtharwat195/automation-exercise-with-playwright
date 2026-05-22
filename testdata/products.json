@@ -1,0 +1,20 @@
+ {
+  "sleevelessDress": {
+    "id":"3",
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000"
+  },
+  "blueTop": {
+        "id":"",
+
+    "name": "Blue Top",
+    "price": "Rs. 500"
+  },
+  "MenTshirt" : {
+    "id":"",
+
+    "name":"Men Tshirt",
+    "price":"Rs. 400"
+  }
+  
+}
