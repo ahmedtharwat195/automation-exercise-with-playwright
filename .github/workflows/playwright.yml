@@ -4,6 +4,14 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
+     schedule:
+    - cron: '0 2 * * *'
+    # runs automatically on a schedule
+    # (here: every day at 2 AM)
+
+  workflow_dispatch:
+    # allows manually triggering the
+    # workflow from the GitHub UI
 jobs:
   test:
     timeout-minutes: 60
