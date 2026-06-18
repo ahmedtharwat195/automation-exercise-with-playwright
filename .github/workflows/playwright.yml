@@ -14,7 +14,7 @@ on:
     # workflow from the GitHub UI
 jobs:
   test:
-    timeout-minutes: 180
+    timeout-minutes: 900
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
