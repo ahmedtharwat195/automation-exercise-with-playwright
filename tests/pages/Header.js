@@ -23,6 +23,8 @@ async clickProductsPage () {
 
           if (this.page.url().includes('google_vignette')){
                     await this.page.goBack();
+                                await this.productsLink.click()    
+
           }
             await this.productsLink.click()    
 await expect (this.page).toHaveURL(/products/)
