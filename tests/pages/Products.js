@@ -39,7 +39,7 @@ async goviewProduct(id){
     async fillReviewform(reviewdata) {
 await this.reviewName.fill(reviewdata.reviewName)
 await this.reviewEmail.fill(reviewdata.reviewEmail)
-await this.reviewText.fill(reviewdata.reviewName)
+await this.reviewText.fill(reviewdata.reviewText)
 
 
      

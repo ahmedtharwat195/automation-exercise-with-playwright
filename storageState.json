@@ -2,81 +2,165 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "iBHz3bAoePxI8O5EwlSuyQr4PQrca4faaR1f7uHfP8FluUqkhovlziruFUJqqB1L",
+      "value": "gorW9PqYgv3AjT7HdXK7KSEm4DkWMyvkMSWD2E6HMkcnLyBKIZk2XcCm1WruKWyG",
       "domain": "automationexercise.com",
       "path": "/",
-      "expires": 1813410632.017987,
+      "expires": 1813412059.760009,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "IDE",
-      "value": "AHWqTUnOHzjvEUHeTbV2D6vqYyY0brGviOsGWowVHrGtQpcdsfKYp_sr1J-KySY4UT8",
-      "domain": ".doubleclick.net",
-      "path": "/",
-      "expires": 1816521022.257468,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "__gads",
-      "value": "ID=78598b795f67fb31:T=1781961018:RT=1781961018:S=ALNI_Mb5YRb6xo2Fj2Z4aKz3vGTDXp3gcQ",
+      "value": "ID=270a323bcbd99ddd:T=1781962449:RT=1781962449:S=ALNI_MaKofYHutZkTmCqvbaSTTkZjVDe-w",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1815657018,
+      "expires": 1815658449,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__gpi",
-      "value": "UID=000013db0b22f238:T=1781961018:RT=1781961018:S=ALNI_MYfa70FtyQlQtxe28TU2CZLJzkVRQ",
+      "value": "UID=000013db0bf09b0a:T=1781962449:RT=1781962449:S=ALNI_MYgb7A_sbG3tak6jne6Dd1iklRLLA",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1815657018,
+      "expires": 1815658449,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__eoi",
-      "value": "ID=4d95f3c0b1437afe:T=1781961018:RT=1781961018:S=AA-AfjZH_moTNnrYVpCJUsYoxF_e",
+      "value": "ID=01a31d31e7d84b73:T=1781962449:RT=1781962449:S=AA-AfjbdVDuoqphO6lsAsqFxt-8X",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1797513018,
+      "expires": 1797514449,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
+      "name": "IDE",
+      "value": "AHWqTUnx4J1cD8kbJzlNjTv1fLZanub-lknmdsu9hiVZBg4WUxvRIsdbdHg75yxP",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1816522451.291923,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "APC",
+      "value": "AfxxVi5fZ3QujxWrnkA8tXLWOWrsfc_k4DGYaFNum59QJvMTpM4LTg",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1797514452.743313,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://automationexercise.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
       "name": "FCCDCF",
-      "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22f2b4d982-f559-4c4c-84b6-3892a917af4e%5C%22%2C%5B1781961018%2C783000000%5D%5D%22%5D%5D%5D",
+      "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22c2414ff7-34dd-4379-94f6-f76c1f1f7a6a%5C%22%2C%5B1781962450%2C495000000%5D%5D%22%5D%5D%5D",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1815657025,
+      "expires": 1815658453,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CMPS",
+      "value": "4367",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1789738453.89959,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "ajaW1LmqPosADHWHABRm5wAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1813498455.127938,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "4367",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1789738455.128076,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "w0fe0GHheeDSuJqXD91cNWL5MW6WcCCy15bUXHN7S3gbCVhJnHvi-lT7UTt3cIKqmZxa99QyhXvGoe3dHh0mbX1KbDCy3kt7lYSOsKHjzTQ.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1789738454.488582,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://automationexercise.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M41.D>6NRF']wIg2GVQu9Ra4!]tbPl1M>e)ZlrFUfJ+tGXxoH?TN^A?765yZk3?EAjNIj=766Ob#qp*`pAx]3If)y3KL9D3I?+@aNH7K",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1789738454.488982,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "6237629831865043446",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1789738454.489041,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "flashtalkingad1",
+      "value": "\"GUID=67457D7A9D3BEC\"",
+      "domain": ".flashtalking.com",
+      "path": "/",
+      "expires": 1816126455.078827,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FCNEC",
+      "value": "%5B%5B%22AKsRol_8ki6SyXX86WU_QwA1CtaSFe9WL3oNSREOVR4KvKJpBRIDoUrU76YC4BWhQ3Ko-2du3J700iwdTd4px7jtfc3yEYM3LxfQv5eUmu2cT1w4BT-CVq7N8500fBCDruS46fO9p-074UI93FnIvt9f0C-i90kKUw%3D%3D%22%5D%5D",
+      "domain": ".automationexercise.com",
+      "path": "/",
+      "expires": 1813498455,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "sessionid",
-      "value": "ywk9829n8co79k7apu7zsn4i0znfqrbk",
+      "value": "tl22iuc5sn3sl11t0whmsurb8sm4jnxo",
       "domain": "automationexercise.com",
       "path": "/",
-      "expires": 1783170630.168018,
+      "expires": 1783172058.703285,
       "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "FCNEC",
-      "value": "%5B%5B%22AKsRol970osmimu45Lr4it-Sh8vNIBnmWx6kruK4lD_pdRObuZBK37WW4a7dgcnfku0hl9MKYnfn-1v7nPR6hJBVuuYtBde9lu1NQ-xrsYV61nof7k_rZ76eOq2vILsbqCqiPXHORKHmTlUs0jQ5SgHwBPATHyGXUg%3D%3D%22%5D%5D",
-      "domain": ".automationexercise.com",
-      "path": "/",
-      "expires": 1813497031,
-      "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     }
@@ -91,7 +175,16 @@
         },
         {
           "name": "google_ama_config",
-          "value": "[[[[null,0,null,[],null,null,\"DIV.footer-bottom\"],4,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER#footer\"],1,[\"10px\",\"185px\",1],[0],null,[],[],1,[],[2,4]],[[null,0,null,[],null,null,\"SECTION#form>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#contact-page>DIV.row\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,0,null,[],null,null,\"DIV.bg\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget\"],1,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],3,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#slider-carousel\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"30px\",1],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],2,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#cart_info\"],4,[\"10px\",\"50px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.breadcrumbs\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian\"],4,[\"10px\",\"35px\",0],[0],null,[],[],1,[],[]]],[],[1782047413774],\"20260617_103503\",[],[[[[null,null,null,[],null,null,\"DIV.contact-info>ADDRESS\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,null,null,[],null,null,\"SECTION#form>DIV.container>DIV.row>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H2.title.text-center,P\"]],[[null,0,null,[],null,null,\"DIV#slider-carousel>DIV.carousel-inner>DIV.item.active.left>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,P\"]]]],[[null,[1,3,2,5],null,\"4334590153\",[],[],[0,2],null,null,[1,null,2,16,480,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1587553818],null,null,[1781862658657],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+          "value": "[[[[null,0,null,[],null,null,\"DIV.footer-bottom\"],4,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER#footer\"],1,[\"10px\",\"185px\",1],[0],null,[],[],1,[],[2,4]],[[null,0,null,[],null,null,\"SECTION#form>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#contact-page>DIV.row\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,0,null,[],null,null,\"DIV.bg\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget\"],1,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],3,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#slider-carousel\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"30px\",1],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],2,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#cart_info\"],4,[\"10px\",\"50px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.breadcrumbs\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian\"],4,[\"10px\",\"35px\",0],[0],null,[],[],1,[],[]]],[],[1782048848335],\"20260617_103503\",[],[[[[null,null,null,[],null,null,\"DIV.contact-info>ADDRESS\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,null,null,[],null,null,\"SECTION#form>DIV.container>DIV.row>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H2.title.text-center,P\"]],[[null,0,null,[],null,null,\"DIV#slider-carousel>DIV.carousel-inner>DIV.item.active.left>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,P\"]]]],[[null,[1,3,2,5],null,\"4334590153\",[],[],[0,2],null,null,[1,null,2,16,480,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1587553818],null,null,[1781862658657],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::h",
+          "value": "1781962457646"
         }
       ]
     }
