@@ -19,7 +19,6 @@ testHelpers =new TestHelpers (page)
     await context.close();
   });
 test('complete payment',async ()=>{   
-                await page.goto('https://automationexercise.com')
     await testHelpers.helperAddOrdersAndProceedToPayment()
 await paymentPage.fillPaymentInfo(paymentData)
 await paymentPage.clickOnPayAndConfirm()
