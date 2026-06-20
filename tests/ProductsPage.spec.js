@@ -19,7 +19,7 @@ productPage=new Products (page)
  test.afterEach(async () => {
     await context.close();
   });
-test('buying an item',async ()=>{   
+test('Add item to cart',async ()=>{   
                 await page.goto('https://automationexercise.com')
 
     await headerPage.clickProductsPage()

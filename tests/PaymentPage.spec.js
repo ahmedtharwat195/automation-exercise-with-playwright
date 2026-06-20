@@ -18,7 +18,7 @@ testHelpers =new TestHelpers (page)
  test.afterEach(async () => {
     await context.close();
   });
-test('complete payment',async ()=>{   
+test('Place an order',async ()=>{   
     await testHelpers.helperAddOrdersAndProceedToPayment()
 await paymentPage.fillPaymentInfo(paymentData)
 await paymentPage.clickOnPayAndConfirm()

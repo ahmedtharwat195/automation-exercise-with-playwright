@@ -27,7 +27,7 @@ test.beforeEach(async({browser}) =>{
  test.afterEach(async () => {
     await context.close();
   });
-test('complete payment',async ()=>{   
+test('Add item to cart and checkout',async ()=>{   
   
                 await page.goto('https://automationexercise.com')
     await headerPage.clickProductsPage()
@@ -36,9 +36,6 @@ test('complete payment',async ()=>{
 await cartPage.assertProductCardContents (productsData.sleevelessDress)
 await cartPage.clickOnProceedtoChekoutButton()
 await cartPage.clickOnCheckoutButton()
-await paymentPage.fillPaymentInfo(paymentData)
-await paymentPage.clickOnPayAndConfirm()
-await paymentPage.assertOrderIsPlaced()
 
 })
 
