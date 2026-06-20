@@ -19,6 +19,8 @@ await expect (this.page).toHaveURL(/login/)
 
 }
 async clickProductsPage () {
+                  await this.productsLink.click()    
+
           if (this.page.url().includes('google_vignette')){
                     await this.page.goBack();
           }
