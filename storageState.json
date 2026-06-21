@@ -2,80 +2,70 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "uH7eD7hXNvqFsqQM4csaAcjWFge19zhF51OCYDdf6BRQJRVMygqqAaZNC4rdznUJ",
+      "value": "1wQQIL0AThjKRZ2ot0KHhuUkODf9j7mihRnvam13TgdiJcs6UsIO7IvDDSV0xfzc",
       "domain": "automationexercise.com",
       "path": "/",
-      "expires": 1813432777.674308,
+      "expires": 1813513294.432943,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "IDE",
-      "value": "AHWqTUm8cg4shCKBiYJtBsVOe3iUrjEXOWvlRCzieKkbe8B8jUFFTrObBeJgVMU4CpI",
+      "value": "AHWqTUlYOWNiZaa4GJw_aQZB_dxkd4Lk9dGt6R2tjauSaEqFbNtlp3CWm0Tj2RA3WqQ",
       "domain": ".doubleclick.net",
       "path": "/",
-      "expires": 1816543168.575314,
+      "expires": 1816623689.184863,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__gads",
-      "value": "ID=b57b128bfc3e03a8:T=1781983166:RT=1781983166:S=ALNI_MYQ9FBnmTxmfVxnfyuMmnxPcnwNrQ",
+      "value": "ID=f30e84b9bc59f666:T=1782063688:RT=1782063688:S=ALNI_MZREhSbcBuz3HW7uomgzsAZoJ_UAg",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1815679166,
+      "expires": 1815759688,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__gpi",
-      "value": "UID=0000142a2d2f1a1a:T=1781983166:RT=1781983166:S=ALNI_MaakIy3F_lc2cBTA9w9_sOxe9REMQ",
+      "value": "UID=000013df2e2a3bbf:T=1782063688:RT=1782063688:S=ALNI_Ma5uTI6UuhSu_4Fc9l7BTpnu3mVlA",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1815679166,
+      "expires": 1815759688,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__eoi",
-      "value": "ID=724ba6a4d174007e:T=1781983166:RT=1781983166:S=AA-AfjZCZdqknGWfwO7FRC0ciBcm",
+      "value": "ID=c0934370ced7256f:T=1782063688:RT=1782063688:S=AA-AfjZlXz0K90EnG75WO8S7Qy4o",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1797535166,
+      "expires": 1797615688,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "FCCDCF",
-      "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%2253195b20-8956-4571-8c3d-c1e065344ca0%5C%22%2C%5B1781983167%2C399000000%5D%5D%22%5D%5D%5D",
+      "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22e938ad02-a477-481e-bdf7-f56e0b5c2f0c%5C%22%2C%5B1782063688%2C566000000%5D%5D%22%5D%5D%5D",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1815679170,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "FCNEC",
-      "value": "%5B%5B%22AKsRol_gYsRihpND6--VOhd1rzOsejccq3Nsq5GL6jwKyzMMKpMGloX8gnGqCK8jhMPTKMttVnopYGXpuN2SQtvzW11D5182QbnpidFFLuMQBzAtFopG28IpET7jV7wgMgHq5gaL-swamGGTVuZH3MqfBA24N2ZLSg%3D%3D%22%5D%5D",
-      "domain": ".automationexercise.com",
-      "path": "/",
-      "expires": 1813519173,
+      "expires": 1815759690,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "sessionid",
-      "value": "mh9vvffsv1ms25gm8dp556wcq68uhz1k",
+      "value": "yd6ko73l6u45dfevaw9gk1dv3fkztqi3",
       "domain": "automationexercise.com",
       "path": "/",
-      "expires": 1783192775.34764,
+      "expires": 1783273292.950207,
       "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
@@ -91,7 +81,7 @@
         },
         {
           "name": "google_ama_config",
-          "value": "[[[[null,0,null,[],null,null,\"DIV.footer-bottom\"],4,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER#footer\"],1,[\"10px\",\"185px\",1],[0],null,[],[],1,[],[2,4]],[[null,0,null,[],null,null,\"SECTION#form>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#contact-page>DIV.row\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,0,null,[],null,null,\"DIV.bg\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget\"],1,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],3,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#slider-carousel\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"30px\",1],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],2,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#cart_info\"],4,[\"10px\",\"50px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.breadcrumbs\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian\"],4,[\"10px\",\"35px\",0],[0],null,[],[],1,[],[]]],[],[1782069561993],\"20260617_103503\",[],[[[[null,null,null,[],null,null,\"DIV.contact-info>ADDRESS\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,null,null,[],null,null,\"SECTION#form>DIV.container>DIV.row>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H2.title.text-center,P\"]],[[null,0,null,[],null,null,\"DIV#slider-carousel>DIV.carousel-inner>DIV.item.active.left>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,P\"]]]],[[null,[1,3,2,5],null,\"4334590153\",[],[],[0,2],null,null,[1,null,2,16,480,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1587553818],null,null,[1781862658657],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+          "value": "[[[[null,0,null,[],null,null,\"DIV.footer-bottom\"],4,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER#footer\"],1,[\"10px\",\"185px\",1],[0],null,[],[],1,[],[2,4]],[[null,0,null,[],null,null,\"SECTION#form>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#contact-page>DIV.row\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,0,null,[],null,null,\"DIV.bg\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget\"],1,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],3,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#slider-carousel\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"30px\",1],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],2,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#cart_info\"],4,[\"10px\",\"50px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.breadcrumbs\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian\"],4,[\"10px\",\"35px\",0],[0],null,[],[],1,[],[]]],[],[1782150086045],\"20260617_103503\",[],[[[[null,null,null,[],null,null,\"DIV.contact-info>ADDRESS\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,null,null,[],null,null,\"SECTION#form>DIV.container>DIV.row>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H2.title.text-center,P\"]],[[null,0,null,[],null,null,\"DIV#slider-carousel>DIV.carousel-inner>DIV.item.active.left>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,P\"]]]],[[null,[1,3,2,5],null,\"4334590153\",[],[],[0,2],null,null,[1,null,2,16,480,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1587553818],null,null,[1781862658657],null,null,null,null,[null,null,null,null,null,[95392649]],null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
         }
       ]
     }

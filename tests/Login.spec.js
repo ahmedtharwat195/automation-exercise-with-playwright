@@ -20,16 +20,11 @@ LoginPage=new Login (page)
  test.afterEach(async () => {
     await context.close();
   });
-test('Login with correct credntials & Save storage state ',async ()=>{   
+
+test('Login with correct credntials & Save storage state & LogOut',async ()=>{   
     await page.goto('https://automationexercise.com/login')
         await LoginPage.Login(loginData.validUser);
-           await page.context().storageState({ path: 'storageState.json' });
-
-
-})
-test('Login with correct credntials & LogOut',async ()=>{   
-    await page.goto('https://automationexercise.com/login')
-        await LoginPage.Login(loginData.validUser);
+                   await page.context().storageState({ path: 'storageState.json' });
    await headerPage.clickOnlogOutButton();
     await expect(page).toHaveURL(/login/)
 
